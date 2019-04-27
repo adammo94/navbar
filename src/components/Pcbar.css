@@ -1,0 +1,25 @@
+.pcbar {
+    position: static;
+    margin-top: 10vh;
+    float: left;
+    background: #00cfff;
+    padding-left: 0;
+    border-radius: 0 2vh 2vh 0;
+}
+
+.linki {
+padding: 0;
+text-decoration: none;
+color: black;
+float: left;
+text-align: left;
+padding-top: 2vh;
+padding-bottom: 2vh;
+margin-left: 1vw;
+margin-right: 2vw;
+font-size: 2vh;
+border-color: black;
+border-style: solid;
+border-width: 0 0 2px 0;
+width: 15vw;
+}
